@@ -10,6 +10,7 @@ A Sphinx extension to add markdown generation support.
 pip3 install sphinx-markdown-builder==0.6.7
 ```
 CI TEST
+CI Test2
 
 ## Usage
 
